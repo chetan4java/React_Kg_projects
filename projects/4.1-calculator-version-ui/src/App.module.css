@@ -1,0 +1,10 @@
+.calculator{
+  background-color: rgb(76, 0, 255);
+  border:  1px solid green;
+  width: 250px;
+  border-radius: 5px;
+}
+.display{
+  margin: 10px;
+  width:175px;font-size: 25px;;
+}
