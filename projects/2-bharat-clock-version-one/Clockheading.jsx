@@ -1,6 +1,6 @@
 const ClockHeading=()=>{
   return(<>
-  <h1 className=" display-7 fw-bold text-body-emphasis">
+  <h1 classNameName=" display-7 fw-bold text-body-emphasis">
         Bharat clock App ,WELCOME ..!!!!!!!!!!!!!!!!!!!!!!!
         </h1>
         

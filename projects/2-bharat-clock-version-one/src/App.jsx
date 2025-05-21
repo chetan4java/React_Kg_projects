@@ -6,7 +6,7 @@ import CurrentTime from "../CurrentTime";
 function App() {
   return (
     <>
-      <div className="text-center">
+      <div classNameName="text-center">
         <ClockHeading/>
         <ClockSlogan/>
         <CurrentTime />

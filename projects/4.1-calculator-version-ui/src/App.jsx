@@ -1,16 +1,18 @@
 
  import appstyle from "./App.module.css"
+import ButtonsContainer from "./components/ButtonsContainer";
+import Display from "./components/Display";
 // import "./App.module.css"
  function App() {
 
   return (
+   <center>
     <div className={appstyle.calculator}>
-      <div className={appstyle.display}></div>
-      <div className="button-container">
-        <button>Chetan b</button>
-      </div>
-    </div>
-  );
-}
+      <Display></Display>
 
-export default App;
+       <ButtonsContainer />      
+  
+     </div>
+     </center>
+  )
+}export default App;
